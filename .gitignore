@@ -1,0 +1,4 @@
+/.venv
+passwd.txt
+*.tmp
+secret/
