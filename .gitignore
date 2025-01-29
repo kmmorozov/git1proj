@@ -2,3 +2,4 @@
 passwd.txt
 *.tmp
 secret/
+.idea/
